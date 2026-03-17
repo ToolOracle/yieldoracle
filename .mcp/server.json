@@ -1,0 +1,7 @@
+{
+  "name": "YieldOracle",
+  "description": "DeFi Yield Intelligence \u2014 8 tools: top yields, risk-adjusted APY, stablecoin yields, RWA yields across 19K+ pools.",
+  "url": "https://tooloracle.io/yield/mcp/",
+  "version": "1.0.0",
+  "tools": 8
+}
