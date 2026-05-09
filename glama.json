@@ -1,7 +1,18 @@
 {
   "name": "YieldOracle",
-  "description": "DeFi Yield Intelligence MCP — 8 tools, 19K+ pools, risk-adjusted APY, RWA yields",
+  "description": "DeFi Yield Intelligence MCP \u2014 8 tools, 19K+ pools, risk-adjusted APY, RWA yields",
   "url": "https://tooloracle.io/yield/mcp/",
   "category": "DeFi",
-  "tags": ["defi", "yield", "apy", "stablecoin", "rwa", "defillama", "farming", "x402", "mcp"]
+  "tags": [
+    "defi",
+    "yield",
+    "apy",
+    "stablecoin",
+    "rwa",
+    "defillama",
+    "farming",
+    "x402",
+    "mcp"
+  ],
+  "endpoint": "https://tooloracle.io/x402/yield/mcp/"
 }
